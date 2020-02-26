@@ -12,4 +12,6 @@ For information refer to [Wiki](https://github.com/master-of-zen/AV1)
 
 **[SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1)** - Focus on speed, utilizing maximum resources.
 
+## Performance/Quality comparisons
 
+[AOM/SVT-AV1 Animation Test](https://www.reddit.com/r/AV1/comments/f6pzvf/aom_git_vs_svtav1_vmaf_animation_test/)
